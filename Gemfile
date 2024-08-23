@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem 'thor', '>=0.20.0'
+gem 'thor', '~> 1.0'
 
-ruby '2.2.3'
+ruby '3.2.1'
